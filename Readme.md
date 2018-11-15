@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))**
+* [CustomMaskManagerCommon.cs](./CS/MyTextEditWithCustomAutocomplete/CustomMaskManagerCommon.cs) (VB: [CustomMaskManagerCommon.vb](./VB/MyTextEditWithCustomAutocomplete/CustomMaskManagerCommon.vb))
+* [MyAutoCompleteMaskManager.cs](./CS/MyTextEditWithCustomAutocomplete/MyAutoCompleteMaskManager.cs) (VB: [MyAutoCompleteMaskManager.vb](./VB/MyTextEditWithCustomAutocomplete/MyAutoCompleteMaskManager.vb))
+* [MyTextEditWithCustomAutocomplete.cs](./CS/MyTextEditWithCustomAutocomplete/MyTextEditWithCustomAutocomplete.cs) (VB: [MyTextEditWithCustomAutocomplete.vb](./VB/MyTextEditWithCustomAutocomplete/MyTextEditWithCustomAutocomplete.vb))
+<!-- default file list end -->
 # How to auto-complete text being entered with a custom string 
 
 
