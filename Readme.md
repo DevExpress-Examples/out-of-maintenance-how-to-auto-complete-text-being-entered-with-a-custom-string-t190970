@@ -1,16 +1,2 @@
-<!-- default file list -->
-*Files to look at*:
-
-* **[Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))**
-* [CustomMaskManagerCommon.cs](./CS/MyTextEditWithCustomAutocomplete/CustomMaskManagerCommon.cs) (VB: [CustomMaskManagerCommon.vb](./VB/MyTextEditWithCustomAutocomplete/CustomMaskManagerCommon.vb))
-* [MyAutoCompleteMaskManager.cs](./CS/MyTextEditWithCustomAutocomplete/MyAutoCompleteMaskManager.cs) (VB: [MyAutoCompleteMaskManager.vb](./VB/MyTextEditWithCustomAutocomplete/MyAutoCompleteMaskManager.vb))
-* [MyTextEditWithCustomAutocomplete.cs](./CS/MyTextEditWithCustomAutocomplete/MyTextEditWithCustomAutocomplete.cs) (VB: [MyTextEditWithCustomAutocomplete.vb](./VB/MyTextEditWithCustomAutocomplete/MyTextEditWithCustomAutocomplete.vb))
-<!-- default file list end -->
-# How to auto-complete text being entered with a custom string 
-
-
-<p>This example demonstrates how to automatically complete text being entered by an end-user with a custom string. Refer to the <a href="https://www.devexpress.com/Support/Center/p/AK3726">How to auto-complete the text being entered with a custom string</a> KB article for more information on this.</p>
-
-<br/>
-
+In v.19.2 and higher, our LookUpEdit has the AutoSuggest mode: [SearchMode](https://docs.devexpress.com/WindowsForms/DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit.SearchMode). This mode allows you to run an asynchronous task in order to retrieve a list of records that match the user text. This list is then assigned to the editor’s DataSource property. Please refer to this help article for more information: [AutoSuggest](https://docs.devexpress.com/WindowsForms/DevExpress.XtraEditors.LookUpEdit.AutoSuggest).
 
